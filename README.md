@@ -1,5 +1,5 @@
 # Anonymous-ChatProject
-Anonymous-ChatProject using C#
+Anonymous-ChatProject using C# in my university.
 
 ## function
 
